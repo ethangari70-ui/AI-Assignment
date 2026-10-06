@@ -31,9 +31,9 @@ stroke_project/
 - [x] P3 — Objectives defined
 - [x] P4 — Data gathered and prepared
 - [x] M2 — Dataset reviewed and refined, with justified choices
-- [ ] P5 — Model development (Task 3)
-- [ ] M3 — Model testing and refinement (Task 3)
-- [ ] D2 — Effectiveness evaluation (Task 3)
+- [x] P5 — Model development (Task 3)
+- [x] M3 — Model testing and refinement (Task 3)
+- [x] D2 — Effectiveness evaluation (Task 3)
 
 ## Author
 
