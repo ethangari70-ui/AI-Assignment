@@ -43,15 +43,6 @@ The final Logistic Regression model (trained with `class_weight='balanced'`, dec
 - **Accuracy: 84.7%**
 - **ROC-AUC: 0.840**
 
-## Setup
-
-```bash
-python -m venv .venv
-source .venv/bin/activate   # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-jupyter notebook
-```
-
 ## Project Status
 
 - [x] P3 — Objectives defined
